@@ -16,3 +16,4 @@ public Satelite(double m,double p,double d){
 public void verPosicion(){
 System.out.println("o satelite atopase no paralelo" +paralelo+ "meridiano" +meridiano+ "a unha distancia da terra" +distanciaTerra); 
 }
+}
