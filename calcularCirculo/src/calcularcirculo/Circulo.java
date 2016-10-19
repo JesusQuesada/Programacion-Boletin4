@@ -26,10 +26,10 @@ public class Circulo {
     public void setPi(double pi){
     }
     public double calcularArea(){
-        return (Math.pow((pi*radio),2));
+        return pi*Math.pow(radio,2);
     }
     public double calcularLongitud(){
-        return (2*pi*radio);
+        return 2*pi*radio;
     }
      
 }
